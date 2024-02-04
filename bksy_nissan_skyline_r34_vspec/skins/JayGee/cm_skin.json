@@ -1,0 +1,37 @@
+{
+  "calipers": {
+    "enabled": true,
+    "colors": [
+      "#8B0000"
+    ]
+  },
+  "carPaint": {
+    "color": "#FFFFFFFF",
+    "flakes": 0.777,
+    "enabled": false
+  },
+  "carpet": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "leather": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "rims": {
+    "enabled": true,
+    "colors": [
+      "#282828"
+    ]
+  },
+  "stitches": {
+    "enabled": true,
+    "colors": [
+      "#FF0000"
+    ]
+  }
+}
